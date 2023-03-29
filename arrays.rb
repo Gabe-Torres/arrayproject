@@ -19,3 +19,5 @@ p soda_prices
 im_always_right.unshift(true, true)
 p im_always_right 
 
+#index positions is the position of a specific element stored in an array. One thing to remember is that index position starts at 0. 
+#For example, in my array,  crystal_types = ["Turquoise", "Citrine", "Onyx", "Amethyst"], Turquoise has an index position of 0. While Citrine has an index position of 1
